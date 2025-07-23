@@ -67,8 +67,6 @@ AirGuard is just getting started. The roadmap includes:
 - AI-powered airdrop prediction models
 - Support for Layer 2 networks (Arbitrum, Optimism)
 - Automated bridging and reinvestment strategies
-- Native mobile application
-- Governance token to reward operators and contributors
 
 All aimed at enabling a decentralized, community-led evolution of the platform.
 
